@@ -1,5 +1,9 @@
 # vsc-plus-minus-folding-icons
 
+-   [View Source on GitHub](https://github.com/yunjscss/vsc-plus-minus-folding-icons)
+-   [Install from Open VSX Registry](https://open-vsx.org/extension/yunjscss/vsc-plus-minus-folding-icons)
+-   [Install from Visual Studio Marketplace](https://marketplace.visualstudio.com/items?itemName=yunjscss.vsc-plus-minus-folding-icons)
+
 This extension replaces the default code folding icons in [VSCode] and [VSCodium] with classic **plus (`+`)** and **minus (`-`)** symbols for a more intuitive experience.
 
 ---
