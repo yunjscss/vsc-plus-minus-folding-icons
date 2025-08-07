@@ -1,0 +1,39 @@
+{
+    "name": "vsc-plus-minus-folding-icons",
+    "displayName": "Plus Minus Folding Icons",
+    "description": "Replaces default folding arrows with + / - icons",
+    "version": "1.0.0",
+    "engines": {
+        "vscode": "^1.53.0"
+    },
+    "author": "yun",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/yunjscss/vsc-plus-minus-folding-icons.git"
+    },
+    "icon": "resources/icon512.png",
+    "publisher": "yunjscss",
+    "categories": [
+        "Themes"
+    ],
+    "extensionKind": [
+        "ui"
+    ],
+    "keywords": [
+        "icon",
+        "folding",
+        "expanded",
+        "collapsed",
+        "plus",
+        "minus"
+    ],
+    "contributes": {
+        "productIconThemes": [
+            {
+                "id": "vsc-plus-minus-folding-icons",
+                "label": "Plus Minus Folding Icons",
+                "path": "./theme/product-icon-theme.json"
+            }
+        ]
+    }
+}

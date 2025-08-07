@@ -1,0 +1,25 @@
+{
+    "fonts": [
+        {
+            "id": "plus-minus",
+            "src": [
+                {
+                    "path": "./plus-minus.woff",
+                    "format": "woff"
+                }
+            ],
+            "weight": "lighter",
+            "style": "normal"
+        }
+    ],
+    "iconDefinitions": {
+        "folding-expanded": {
+            "fontCharacter": "\\F458",
+            "fontId": "plus-minus"
+        },
+        "folding-collapsed": {
+            "fontCharacter": "\\F457",
+            "fontId": "plus-minus"
+        }
+    }
+}
